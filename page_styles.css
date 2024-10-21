@@ -1,0 +1,44 @@
+@page {
+  margin-bottom: 5pt;
+  margin-top: 5pt;
+}
+@font-face {
+  font-family: "kalpurush";
+  font-style: normal;
+  font-weight: normal;
+  src: url(OEBPS/fonts/kalpurush.ttf);
+}
+@font-face {
+  font-family: "Kalpurush";
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  src: url(fonts/Kalpurush.ttf);
+}
+@font-face {
+  font-family: "Emdadiya";
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  src: url(fonts/ExcellentArabicWeb2.0.ttf);
+}
+@font-face {
+  font-family: "UTN";
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  src: url(fonts/UthmanTN_v2-0.ttf);
+}
+@font-face {
+  font-family: "ABC";
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+}
+@font-face {
+  font-family: "uthmani";
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  src: url(fonts/UthmanicHAFS.ttf);
+}

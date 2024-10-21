@@ -1,0 +1,122 @@
+.calibre {
+  display: block;
+  font-family: "kalpurush", serif;
+  font-size: 1.41667em;
+  line-height: 1.2;
+  padding-left: 0;
+  padding-right: 0;
+  margin: 0 5pt;
+}
+.calibre1 {
+  display: block;
+  font-family: "kalpurush";
+  font-size: 1.29412em;
+  font-weight: bold;
+  line-height: 1.2;
+  text-align: center;
+  margin: 0.83em 0;
+}
+.calibre2 {
+  display: block;
+  list-style-type: decimal;
+  margin-bottom: 1em;
+  margin-right: 0;
+  margin-top: 1em;
+}
+.calibre3 {
+  display: list-item;
+}
+.calibre4 {
+  display: block;
+}
+.calibre5 {
+  font-weight: bold;
+}
+.chapter-title {
+  display: block;
+  font-size: 1.17647em;
+  line-height: 1.2;
+  margin-bottom: 0.25em;
+  margin-top: 0.7em;
+}
+.chapter-title-tr {
+  display: inline-block;
+  font-family: kalpurush;
+  font-size: 1em;
+  font-weight: bold;
+  line-height: 1.2;
+  margin-left: 0.5em;
+}
+.qjuz {
+  display: block;
+  margin-bottom: 1.75em;
+  margin-top: 1.125em;
+  text-align: center;
+}
+.qtranslation {
+  display: block;
+  font-family: kalpurush;
+  font-size: 0.70588em;
+  line-height: 1.2;
+  margin-bottom: 1.2em;
+  text-align: justify;
+}
+.qtranslation-key {
+  font-family: "arial";
+  display: inline-block;
+  font-weight: bold;
+  margin-left: 0.5em;
+  margin-right: 0.5em;
+  font-size: 0.8em;
+}
+.qverse {
+  display: block;
+  margin-bottom: 0.5em;
+  text-align: center;
+}
+.qverse-end {
+  font-family: "uthmani";
+  display: inline-block;
+  font-size: 1em;
+  line-height: 1.2;
+  margin-left: 0.2em;
+  margin-right: 0.2em;
+  text-align: center;
+  white-space: nowrap;
+}
+.qverse-info {
+  background-color: lightgray;
+  border-radius: 30%/50%;
+  font-family: serif;
+  font-size: 0.70588em;
+  height: 0.8em;
+  line-height: 1.2;
+  margin-left: 0.2em;
+  margin-right: 0.2em;
+  text-align: center;
+  white-space: nowrap;
+  padding: 0.2em;
+}
+.qverse-text {
+  font-family: "UTN";
+}
+.qverse1 {
+  display: block;
+  text-align: left;
+}
+.subtitle {
+  display: block;
+  font-size: 0.79412em;
+  line-height: 1.2;
+  margin-bottom: 0.5em;
+  margin-top: 0.5em;
+  text-align: left;
+  font-family: "arial";
+}
+.title {
+  display: block;
+  font-size: 1em;
+  line-height: 1.2;
+  margin-bottom: 0.75em;
+  margin-top: 0.75em;
+}

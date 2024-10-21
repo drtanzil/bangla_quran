@@ -1,0 +1,15 @@
+@font-face {
+	font-family: "Kalpurush";
+	src: url(fonts/Kalpurush-1.ttf)
+}
+
+@font-face {
+	font-family: "Arial";
+	src: url(fonts/Arial.ttf)
+}
+
+@font-face {
+	font-family: "Arial";
+	font-weight: bold;
+	src: url(fonts/Arial-Bold.ttf)
+}

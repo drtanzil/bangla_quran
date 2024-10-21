@@ -1,0 +1,102 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="uuid_id">
+  <metadata xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata">
+    <dc:title>Al Quran - বাংলা</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Almighty, Allah">Allah Almighty</dc:creator>
+    <dc:contributor opf:role="bkp">calibre (7.19.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">479bf679-ff7f-421d-8134-7ff0a6a8954b</dc:identifier>
+    <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+    <dc:subject>Quran</dc:subject>
+    <dc:language>en</dc:language>
+    <dc:identifier opf:scheme="calibre">eae449c5-b620-45e6-afd1-8564b28e05eb</dc:identifier>
+    <meta name="calibre:title_sort" content="Al Quran - বাংলা"/>
+    <meta name="calibre:timestamp" content="2024-09-27T19:23:26+00:00"/>
+    <meta name="cover" content="cover"/>
+    <meta name="primary-writing-mode" content="horizontal-lr"/>
+  </metadata>
+  <manifest>
+    <item id="titlepage" href="titlepage.xhtml" media-type="application/xhtml+xml"/>
+    <item id="table-of-contents" href="OEBPS/toc.xhtml" media-type="application/xhtml+xml"/>
+    <item id="j1" href="OEBPS/j1.xhtml" media-type="application/xhtml+xml"/>
+    <item id="j2" href="OEBPS/j2.xhtml" media-type="application/xhtml+xml"/>
+    <item id="j3" href="OEBPS/j3.xhtml" media-type="application/xhtml+xml"/>
+    <item id="j4" href="OEBPS/j4.xhtml" media-type="application/xhtml+xml"/>
+    <item id="j5" href="OEBPS/j5.xhtml" media-type="application/xhtml+xml"/>
+    <item id="j6" href="OEBPS/j6.xhtml" media-type="application/xhtml+xml"/>
+    <item id="j7" href="OEBPS/j7.xhtml" media-type="application/xhtml+xml"/>
+    <item id="j8" href="OEBPS/j8.xhtml" media-type="application/xhtml+xml"/>
+    <item id="j9" href="OEBPS/j9.xhtml" media-type="application/xhtml+xml"/>
+    <item id="j10" href="OEBPS/j10.xhtml" media-type="application/xhtml+xml"/>
+    <item id="j11" href="OEBPS/j11.xhtml" media-type="application/xhtml+xml"/>
+    <item id="j12" href="OEBPS/j12.xhtml" media-type="application/xhtml+xml"/>
+    <item id="j13" href="OEBPS/j13.xhtml" media-type="application/xhtml+xml"/>
+    <item id="j14" href="OEBPS/j14.xhtml" media-type="application/xhtml+xml"/>
+    <item id="j15" href="OEBPS/j15.xhtml" media-type="application/xhtml+xml"/>
+    <item id="j16" href="OEBPS/j16.xhtml" media-type="application/xhtml+xml"/>
+    <item id="j17" href="OEBPS/j17.xhtml" media-type="application/xhtml+xml"/>
+    <item id="j18" href="OEBPS/j18.xhtml" media-type="application/xhtml+xml"/>
+    <item id="j19" href="OEBPS/j19.xhtml" media-type="application/xhtml+xml"/>
+    <item id="j20" href="OEBPS/j20.xhtml" media-type="application/xhtml+xml"/>
+    <item id="j21" href="OEBPS/j21.xhtml" media-type="application/xhtml+xml"/>
+    <item id="j22" href="OEBPS/j22.xhtml" media-type="application/xhtml+xml"/>
+    <item id="j23" href="OEBPS/j23.xhtml" media-type="application/xhtml+xml"/>
+    <item id="j24" href="OEBPS/j24.xhtml" media-type="application/xhtml+xml"/>
+    <item id="j25" href="OEBPS/j25.xhtml" media-type="application/xhtml+xml"/>
+    <item id="j26" href="OEBPS/j26.xhtml" media-type="application/xhtml+xml"/>
+    <item id="j27" href="OEBPS/j27.xhtml" media-type="application/xhtml+xml"/>
+    <item id="j28" href="OEBPS/j28.xhtml" media-type="application/xhtml+xml"/>
+    <item id="j29" href="OEBPS/j29.xhtml" media-type="application/xhtml+xml"/>
+    <item id="j302" href="OEBPS/j30_split_000.xhtml" media-type="application/xhtml+xml"/>
+    <item id="j301" href="OEBPS/j30_split_001.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+    <item id="page_css" href="page_styles.css" media-type="text/css"/>
+    <item id="css" href="stylesheet.css" media-type="text/css"/>
+    <item id="cover" href="cover.jpeg" media-type="image/jpeg"/>
+    <item id="font" href="fonts/Kalpurush.ttf" media-type="application/x-font-truetype"/>
+    <item id="id1" href="OEBPS/fonts/kalpurush.ttf" media-type="application/vnd.ms-opentype"/>
+    <item id="id" href="fonts/UthmanTN_v2-0.ttf" media-type="application/x-font-truetype"/>
+    <item id="id5" href="fonts/UthmanicHAFS.ttf" media-type="application/x-font-truetype"/>
+    <item id="font1" href="fonts/Kalpurush-1.ttf" media-type="application/x-font-truetype"/>
+    <item id="font2" href="fonts/Arial.ttf" media-type="application/x-font-truetype"/>
+    <item id="font3" href="fonts/Arial-Bold.ttf" media-type="application/x-font-truetype"/>
+    <item id="font_embed" href="fonts.css" media-type="text/css"/>
+  </manifest>
+  <spine toc="ncx" page-progression-direction="rtl">
+    <itemref idref="titlepage"/>
+    <itemref idref="table-of-contents"/>
+    <itemref idref="j1"/>
+    <itemref idref="j2"/>
+    <itemref idref="j3"/>
+    <itemref idref="j4"/>
+    <itemref idref="j5"/>
+    <itemref idref="j6"/>
+    <itemref idref="j7"/>
+    <itemref idref="j8"/>
+    <itemref idref="j9"/>
+    <itemref idref="j10"/>
+    <itemref idref="j11"/>
+    <itemref idref="j12"/>
+    <itemref idref="j13"/>
+    <itemref idref="j14"/>
+    <itemref idref="j15"/>
+    <itemref idref="j16"/>
+    <itemref idref="j17"/>
+    <itemref idref="j18"/>
+    <itemref idref="j19"/>
+    <itemref idref="j20"/>
+    <itemref idref="j21"/>
+    <itemref idref="j22"/>
+    <itemref idref="j23"/>
+    <itemref idref="j24"/>
+    <itemref idref="j25"/>
+    <itemref idref="j26"/>
+    <itemref idref="j27"/>
+    <itemref idref="j28"/>
+    <itemref idref="j29"/>
+    <itemref idref="j302"/>
+    <itemref idref="j301"/>
+  </spine>
+  <guide>
+    <reference type="cover" href="titlepage.xhtml" title="Cover"/>
+  </guide>
+</package>

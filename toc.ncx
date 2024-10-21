@@ -1,0 +1,699 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="en">
+  <head>
+    <meta name="dtb:uid" content="479bf679-ff7f-421d-8134-7ff0a6a8954b"/>
+    <meta name="dtb:depth" content="2"/>
+    <meta name="dtb:generator" content="calibre (7.20.0)"/>
+    <meta name="dtb:totalPageCount" content="0"/>
+    <meta name="dtb:maxPageNumber" content="0"/>
+  </head>
+  <docTitle>
+    <text>Al Quran - বাংলা</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="num_1" playOrder="1">
+      <navLabel>
+        <text>ফাতিহা- (সূচনা)</text>
+      </navLabel>
+      <content src="OEBPS/j1.xhtml#ch1"/>
+    </navPoint>
+    <navPoint id="num_2" playOrder="2">
+      <navLabel>
+        <text>বাকারা- (বকনা-বাছুর)</text>
+      </navLabel>
+      <content src="OEBPS/j1.xhtml#ch2"/>
+    </navPoint>
+    <navPoint id="num_3" playOrder="3">
+      <navLabel>
+        <text>আলে ইমরান- (ইমরানের পরিবার)</text>
+      </navLabel>
+      <content src="OEBPS/j3.xhtml#ch3"/>
+    </navPoint>
+    <navPoint id="num_4" playOrder="4">
+      <navLabel>
+        <text>নিসা- (নারী)</text>
+      </navLabel>
+      <content src="OEBPS/j4.xhtml#ch4"/>
+    </navPoint>
+    <navPoint id="num_5" playOrder="5">
+      <navLabel>
+        <text>মাইদা- (খাদ্য পরিবেশিত টেবিল)</text>
+      </navLabel>
+      <content src="OEBPS/j6.xhtml#ch5"/>
+    </navPoint>
+    <navPoint id="num_6" playOrder="6">
+      <navLabel>
+        <text>আন'আম- (গৃহপালিত পশু)</text>
+      </navLabel>
+      <content src="OEBPS/j7.xhtml#ch6"/>
+    </navPoint>
+    <navPoint id="num_7" playOrder="7">
+      <navLabel>
+        <text>আরাফ- (উচু স্থান)</text>
+      </navLabel>
+      <content src="OEBPS/j8.xhtml#ch7"/>
+    </navPoint>
+    <navPoint id="num_8" playOrder="8">
+      <navLabel>
+        <text>আনফাল- (যুদ্ধ-লব্ধ ধনসম্পদ)</text>
+      </navLabel>
+      <content src="OEBPS/j9.xhtml#ch8"/>
+    </navPoint>
+    <navPoint id="num_9" playOrder="9">
+      <navLabel>
+        <text>তাওবা- (অনুশোচনা)</text>
+      </navLabel>
+      <content src="OEBPS/j10.xhtml#ch9"/>
+    </navPoint>
+    <navPoint id="num_10" playOrder="10">
+      <navLabel>
+        <text>ইউনুস- (নবী ইউনুস)</text>
+      </navLabel>
+      <content src="OEBPS/j11.xhtml#ch10"/>
+    </navPoint>
+    <navPoint id="num_11" playOrder="11">
+      <navLabel>
+        <text>হুদ- (নবী হুদ)</text>
+      </navLabel>
+      <content src="OEBPS/j11.xhtml#ch11"/>
+    </navPoint>
+    <navPoint id="num_12" playOrder="12">
+      <navLabel>
+        <text>ইউসুফ- (নবী ইউসুফ)</text>
+      </navLabel>
+      <content src="OEBPS/j12.xhtml#ch12"/>
+    </navPoint>
+    <navPoint id="num_13" playOrder="13">
+      <navLabel>
+        <text>র'দ- (বজ্রপাত)</text>
+      </navLabel>
+      <content src="OEBPS/j13.xhtml#ch13"/>
+    </navPoint>
+    <navPoint id="num_14" playOrder="14">
+      <navLabel>
+        <text>ইব্রাহীম- (নবী ইব্রাহীম)</text>
+      </navLabel>
+      <content src="OEBPS/j13.xhtml#ch14"/>
+    </navPoint>
+    <navPoint id="num_15" playOrder="15">
+      <navLabel>
+        <text>হিজর- (পাথুরে পাহাড়)</text>
+      </navLabel>
+      <content src="OEBPS/j14.xhtml#ch15"/>
+    </navPoint>
+    <navPoint id="num_16" playOrder="16">
+      <navLabel>
+        <text>নাহল- (মৌমাছি)</text>
+      </navLabel>
+      <content src="OEBPS/j14.xhtml#ch16"/>
+    </navPoint>
+    <navPoint id="num_17" playOrder="17">
+      <navLabel>
+        <text>ইসরা- (ইহুদি জাতি)</text>
+      </navLabel>
+      <content src="OEBPS/j15.xhtml#ch17"/>
+    </navPoint>
+    <navPoint id="num_18" playOrder="18">
+      <navLabel>
+        <text>কাহফ- (গুহা)</text>
+      </navLabel>
+      <content src="OEBPS/j15.xhtml#ch18"/>
+    </navPoint>
+    <navPoint id="num_19" playOrder="19">
+      <navLabel>
+        <text>মারইয়াম- (মারইয়াম (ঈসা নবীর মা))</text>
+      </navLabel>
+      <content src="OEBPS/j16.xhtml#ch19"/>
+    </navPoint>
+    <navPoint id="num_20" playOrder="20">
+      <navLabel>
+        <text>তা হা- (তা হা)</text>
+      </navLabel>
+      <content src="OEBPS/j16.xhtml#ch20"/>
+    </navPoint>
+    <navPoint id="num_21" playOrder="21">
+      <navLabel>
+        <text>আম্বিয়া- (নবীগণ)</text>
+      </navLabel>
+      <content src="OEBPS/j17.xhtml#ch21"/>
+    </navPoint>
+    <navPoint id="num_22" playOrder="22">
+      <navLabel>
+        <text>হজ্জ- (হাজ্জ)</text>
+      </navLabel>
+      <content src="OEBPS/j17.xhtml#ch22"/>
+    </navPoint>
+    <navPoint id="num_23" playOrder="23">
+      <navLabel>
+        <text>মুমিনুন- (বিশ্বাসী)</text>
+      </navLabel>
+      <content src="OEBPS/j18.xhtml#ch23"/>
+    </navPoint>
+    <navPoint id="num_24" playOrder="24">
+      <navLabel>
+        <text>নূর- (আলো)</text>
+      </navLabel>
+      <content src="OEBPS/j18.xhtml#ch24"/>
+    </navPoint>
+    <navPoint id="num_25" playOrder="25">
+      <navLabel>
+        <text>ফুরকান- (মানদণ্ড)</text>
+      </navLabel>
+      <content src="OEBPS/j18.xhtml#ch25"/>
+    </navPoint>
+    <navPoint id="num_26" playOrder="26">
+      <navLabel>
+        <text>শু'আরা- (কবি)</text>
+      </navLabel>
+      <content src="OEBPS/j19.xhtml#ch26"/>
+    </navPoint>
+    <navPoint id="num_27" playOrder="27">
+      <navLabel>
+        <text>নামল- (পিঁপড়া)</text>
+      </navLabel>
+      <content src="OEBPS/j19.xhtml#ch27"/>
+    </navPoint>
+    <navPoint id="num_28" playOrder="28">
+      <navLabel>
+        <text>কাসাস- (কাহিনি)</text>
+      </navLabel>
+      <content src="OEBPS/j20.xhtml#ch28"/>
+    </navPoint>
+    <navPoint id="num_29" playOrder="29">
+      <navLabel>
+        <text>আনকাবুত- (মাকড়শা)</text>
+      </navLabel>
+      <content src="OEBPS/j20.xhtml#ch29"/>
+    </navPoint>
+    <navPoint id="num_30" playOrder="30">
+      <navLabel>
+        <text>রূম- (রোমান জাতি)</text>
+      </navLabel>
+      <content src="OEBPS/j21.xhtml#ch30"/>
+    </navPoint>
+    <navPoint id="num_31" playOrder="31">
+      <navLabel>
+        <text>লুকমান- (এক জ্ঞানী ব্যাক্তি)</text>
+      </navLabel>
+      <content src="OEBPS/j21.xhtml#ch31"/>
+    </navPoint>
+    <navPoint id="num_32" playOrder="32">
+      <navLabel>
+        <text>সাজদা- (সিজদা)</text>
+      </navLabel>
+      <content src="OEBPS/j21.xhtml#ch32"/>
+    </navPoint>
+    <navPoint id="num_33" playOrder="33">
+      <navLabel>
+        <text>আহযাব- (জোট)</text>
+      </navLabel>
+      <content src="OEBPS/j21.xhtml#ch33"/>
+    </navPoint>
+    <navPoint id="num_34" playOrder="34">
+      <navLabel>
+        <text>সাবা- (রানী সাবা/শেবা)</text>
+      </navLabel>
+      <content src="OEBPS/j22.xhtml#ch34"/>
+    </navPoint>
+    <navPoint id="num_35" playOrder="35">
+      <navLabel>
+        <text>ফাতির- (আদি স্রষ্টা)</text>
+      </navLabel>
+      <content src="OEBPS/j22.xhtml#ch35"/>
+    </navPoint>
+    <navPoint id="num_36" playOrder="36">
+      <navLabel>
+        <text>ইয়াসীন- (ইয়াসীন)</text>
+      </navLabel>
+      <content src="OEBPS/j22.xhtml#ch36"/>
+    </navPoint>
+    <navPoint id="num_37" playOrder="37">
+      <navLabel>
+        <text>সাফফাত- (সারিবদ্ধভাবে দাঁড়ানো)</text>
+      </navLabel>
+      <content src="OEBPS/j23.xhtml#ch37"/>
+    </navPoint>
+    <navPoint id="num_38" playOrder="38">
+      <navLabel>
+        <text>সাদ- (আরবি বর্ণ সাদ)</text>
+      </navLabel>
+      <content src="OEBPS/j23.xhtml#ch38"/>
+    </navPoint>
+    <navPoint id="num_39" playOrder="39">
+      <navLabel>
+        <text>যুমার- (দলবদ্ধ জনতা)</text>
+      </navLabel>
+      <content src="OEBPS/j23.xhtml#ch39"/>
+    </navPoint>
+    <navPoint id="num_40" playOrder="40">
+      <navLabel>
+        <text>গাফির- (ক্ষমাকারী)</text>
+      </navLabel>
+      <content src="OEBPS/j24.xhtml#ch40"/>
+    </navPoint>
+    <navPoint id="num_41" playOrder="41">
+      <navLabel>
+        <text>ফুসসিলাত- (সুস্পষ্ট বিবরণ)</text>
+      </navLabel>
+      <content src="OEBPS/j24.xhtml#ch41"/>
+    </navPoint>
+    <navPoint id="num_42" playOrder="42">
+      <navLabel>
+        <text>শূরা- (পরামর্শ)</text>
+      </navLabel>
+      <content src="OEBPS/j25.xhtml#ch42"/>
+    </navPoint>
+    <navPoint id="num_43" playOrder="43">
+      <navLabel>
+        <text>যুখরুফ- (সোনাদানা)</text>
+      </navLabel>
+      <content src="OEBPS/j25.xhtml#ch43"/>
+    </navPoint>
+    <navPoint id="num_44" playOrder="44">
+      <navLabel>
+        <text>দুখান- (ধোঁয়া)</text>
+      </navLabel>
+      <content src="OEBPS/j25.xhtml#ch44"/>
+    </navPoint>
+    <navPoint id="num_45" playOrder="45">
+      <navLabel>
+        <text>জাসিয়া- (নতজানু)</text>
+      </navLabel>
+      <content src="OEBPS/j25.xhtml#ch45"/>
+    </navPoint>
+    <navPoint id="num_46" playOrder="46">
+      <navLabel>
+        <text>আহকাফ- (বালুর পাহাড়)</text>
+      </navLabel>
+      <content src="OEBPS/j26.xhtml#ch46"/>
+    </navPoint>
+    <navPoint id="num_47" playOrder="47">
+      <navLabel>
+        <text>মুহাম্মদ- (নবী মুহাম্মদ)</text>
+      </navLabel>
+      <content src="OEBPS/j26.xhtml#ch47"/>
+    </navPoint>
+    <navPoint id="num_48" playOrder="48">
+      <navLabel>
+        <text>ফাতহ- (বিজয়)</text>
+      </navLabel>
+      <content src="OEBPS/j26.xhtml#ch48"/>
+    </navPoint>
+    <navPoint id="num_49" playOrder="49">
+      <navLabel>
+        <text>হুজুরাত- (আবাস)</text>
+      </navLabel>
+      <content src="OEBPS/j26.xhtml#ch49"/>
+    </navPoint>
+    <navPoint id="num_50" playOrder="50">
+      <navLabel>
+        <text>কাফ- (কাফ)</text>
+      </navLabel>
+      <content src="OEBPS/j26.xhtml#ch50"/>
+    </navPoint>
+    <navPoint id="num_51" playOrder="51">
+      <navLabel>
+        <text>যারিয়াত- (বিক্ষেপকারী বাতাস)</text>
+      </navLabel>
+      <content src="OEBPS/j26.xhtml#ch51"/>
+    </navPoint>
+    <navPoint id="num_52" playOrder="52">
+      <navLabel>
+        <text>তূর- (পাহাড়)</text>
+      </navLabel>
+      <content src="OEBPS/j27.xhtml#ch52"/>
+    </navPoint>
+    <navPoint id="num_53" playOrder="53">
+      <navLabel>
+        <text>নাজম- (তারা)</text>
+      </navLabel>
+      <content src="OEBPS/j27.xhtml#ch53"/>
+    </navPoint>
+    <navPoint id="num_54" playOrder="54">
+      <navLabel>
+        <text>কামার- (চাঁদ)</text>
+      </navLabel>
+      <content src="OEBPS/j27.xhtml#ch54"/>
+    </navPoint>
+    <navPoint id="num_55" playOrder="55">
+      <navLabel>
+        <text>রাহমান- (পরম করুণাময়)</text>
+      </navLabel>
+      <content src="OEBPS/j27.xhtml#ch55"/>
+    </navPoint>
+    <navPoint id="num_56" playOrder="56">
+      <navLabel>
+        <text>ওয়াকিয়া- (নিশ্চিত ঘটনা)</text>
+      </navLabel>
+      <content src="OEBPS/j27.xhtml#ch56"/>
+    </navPoint>
+    <navPoint id="num_57" playOrder="57">
+      <navLabel>
+        <text>হাদিদ- (লোহা)</text>
+      </navLabel>
+      <content src="OEBPS/j27.xhtml#ch57"/>
+    </navPoint>
+    <navPoint id="num_58" playOrder="58">
+      <navLabel>
+        <text>মুজাদালা- (অনুযোগকারিণী)</text>
+      </navLabel>
+      <content src="OEBPS/j28.xhtml#ch58"/>
+    </navPoint>
+    <navPoint id="num_59" playOrder="59">
+      <navLabel>
+        <text>হাশর- (সমাবেশ)</text>
+      </navLabel>
+      <content src="OEBPS/j28.xhtml#ch59"/>
+    </navPoint>
+    <navPoint id="num_60" playOrder="60">
+      <navLabel>
+        <text>মুমতাহিনা- (নারী, যাকে পরীক্ষা করা হবে)</text>
+      </navLabel>
+      <content src="OEBPS/j28.xhtml#ch60"/>
+    </navPoint>
+    <navPoint id="num_61" playOrder="61">
+      <navLabel>
+        <text>সাফ- (সারিবদ্ধ সৈন্যদল)</text>
+      </navLabel>
+      <content src="OEBPS/j28.xhtml#ch61"/>
+    </navPoint>
+    <navPoint id="num_62" playOrder="62">
+      <navLabel>
+        <text>জুম'আ- (সম্মেলন/শুক্রবার)</text>
+      </navLabel>
+      <content src="OEBPS/j28.xhtml#ch62"/>
+    </navPoint>
+    <navPoint id="num_63" playOrder="63">
+      <navLabel>
+        <text>মুনাফিকুন- (ভণ্ড বিশ্বাসী)</text>
+      </navLabel>
+      <content src="OEBPS/j28.xhtml#ch63"/>
+    </navPoint>
+    <navPoint id="num_64" playOrder="64">
+      <navLabel>
+        <text>তাগাবুন- (মোহ অপসারণ)</text>
+      </navLabel>
+      <content src="OEBPS/j28.xhtml#ch64"/>
+    </navPoint>
+    <navPoint id="num_65" playOrder="65">
+      <navLabel>
+        <text>তালাক- (তালাক)</text>
+      </navLabel>
+      <content src="OEBPS/j28.xhtml#ch65"/>
+    </navPoint>
+    <navPoint id="num_66" playOrder="66">
+      <navLabel>
+        <text>তাহরীম- (নিষিদ্ধকরণ)</text>
+      </navLabel>
+      <content src="OEBPS/j28.xhtml#ch66"/>
+    </navPoint>
+    <navPoint id="num_67" playOrder="67">
+      <navLabel>
+        <text>মুল্ক- (সার্বভৌম কর্তৃত্ব)</text>
+      </navLabel>
+      <content src="OEBPS/j29.xhtml#ch67"/>
+    </navPoint>
+    <navPoint id="num_68" playOrder="68">
+      <navLabel>
+        <text>কলম- (কলম)</text>
+      </navLabel>
+      <content src="OEBPS/j29.xhtml#ch68"/>
+    </navPoint>
+    <navPoint id="num_69" playOrder="69">
+      <navLabel>
+        <text>হাক্কা- (নিশ্চিত সত্য)</text>
+      </navLabel>
+      <content src="OEBPS/j29.xhtml#ch69"/>
+    </navPoint>
+    <navPoint id="num_70" playOrder="70">
+      <navLabel>
+        <text>মা'আরিজ- (উন্নয়নের সোপান)</text>
+      </navLabel>
+      <content src="OEBPS/j29.xhtml#ch70"/>
+    </navPoint>
+    <navPoint id="num_71" playOrder="71">
+      <navLabel>
+        <text>নূহ- (নবী নূহ)</text>
+      </navLabel>
+      <content src="OEBPS/j29.xhtml#ch71"/>
+    </navPoint>
+    <navPoint id="num_72" playOrder="72">
+      <navLabel>
+        <text>জিন- (জিন সম্প্রদায়)</text>
+      </navLabel>
+      <content src="OEBPS/j29.xhtml#ch72"/>
+    </navPoint>
+    <navPoint id="num_73" playOrder="73">
+      <navLabel>
+        <text>মুযযাম্মিল- (বস্ত্রাচ্ছাদনকারী)</text>
+      </navLabel>
+      <content src="OEBPS/j29.xhtml#ch73"/>
+    </navPoint>
+    <navPoint id="num_74" playOrder="74">
+      <navLabel>
+        <text>মুদ্দাসসির- (পোশাক পরিহিত)</text>
+      </navLabel>
+      <content src="OEBPS/j29.xhtml#ch74"/>
+    </navPoint>
+    <navPoint id="num_75" playOrder="75">
+      <navLabel>
+        <text>কিয়ামাহ- (পুনরুত্থান)</text>
+      </navLabel>
+      <content src="OEBPS/j29.xhtml#ch75"/>
+    </navPoint>
+    <navPoint id="num_76" playOrder="76">
+      <navLabel>
+        <text>ইনসান- (মানবজাতি)</text>
+      </navLabel>
+      <content src="OEBPS/j29.xhtml#ch76"/>
+    </navPoint>
+    <navPoint id="num_77" playOrder="77">
+      <navLabel>
+        <text>মুরসালাত- (প্রেরিত পুরুষ)</text>
+      </navLabel>
+      <content src="OEBPS/j29.xhtml#ch77"/>
+    </navPoint>
+    <navPoint id="num_78" playOrder="78">
+      <navLabel>
+        <text>নাবা- (মহাসংবাদ)</text>
+      </navLabel>
+      <content src="OEBPS/j30_split_000.xhtml#ch78"/>
+    </navPoint>
+    <navPoint id="num_79" playOrder="79">
+      <navLabel>
+        <text>নাজিআ'ত- (প্রচেষ্টাকারী)</text>
+      </navLabel>
+      <content src="OEBPS/j30_split_000.xhtml#ch79"/>
+    </navPoint>
+    <navPoint id="num_80" playOrder="80">
+      <navLabel>
+        <text>আবাসা- (সে ভ্রু কুঁচকালো)</text>
+      </navLabel>
+      <content src="OEBPS/j30_split_000.xhtml#ch80"/>
+    </navPoint>
+    <navPoint id="num_81" playOrder="81">
+      <navLabel>
+        <text>তাকওয়ির- (অন্ধকারাচ্ছন্ন)</text>
+      </navLabel>
+      <content src="OEBPS/j30_split_000.xhtml#ch81"/>
+    </navPoint>
+    <navPoint id="num_82" playOrder="82">
+      <navLabel>
+        <text>ইনফিতার- (বিদীর্ণ করা)</text>
+      </navLabel>
+      <content src="OEBPS/j30_split_000.xhtml#ch82"/>
+    </navPoint>
+    <navPoint id="num_83" playOrder="83">
+      <navLabel>
+        <text>মুতাফফিফিন- (প্রতারণা করা)</text>
+      </navLabel>
+      <content src="OEBPS/j30_split_000.xhtml#ch83"/>
+    </navPoint>
+    <navPoint id="num_84" playOrder="84">
+      <navLabel>
+        <text>ইনশিকাক- (খণ্ড-বিখণ্ডকরণ)</text>
+      </navLabel>
+      <content src="OEBPS/j30_split_000.xhtml#ch84"/>
+    </navPoint>
+    <navPoint id="num_85" playOrder="85">
+      <navLabel>
+        <text>বুরুজ- (নক্ষত্রপুঞ্জ)</text>
+      </navLabel>
+      <content src="OEBPS/j30_split_000.xhtml#ch85"/>
+    </navPoint>
+    <navPoint id="num_86" playOrder="86">
+      <navLabel>
+        <text>তারিক- (রাতের আগন্তুক)</text>
+      </navLabel>
+      <content src="OEBPS/j30_split_000.xhtml#ch86"/>
+    </navPoint>
+    <navPoint id="num_87" playOrder="87">
+      <navLabel>
+        <text>আ'লা- (সর্বোন্নত)</text>
+      </navLabel>
+      <content src="OEBPS/j30_split_000.xhtml#ch87"/>
+    </navPoint>
+    <navPoint id="num_88" playOrder="88">
+      <navLabel>
+        <text>গাশিয়া- (বিহ্বলকর ঘটনা)</text>
+      </navLabel>
+      <content src="OEBPS/j30_split_000.xhtml#ch88"/>
+    </navPoint>
+    <navPoint id="num_89" playOrder="89">
+      <navLabel>
+        <text>ফজর- (ভোরবেলা)</text>
+      </navLabel>
+      <content src="OEBPS/j30_split_001.xhtml#ch89"/>
+    </navPoint>
+    <navPoint id="num_90" playOrder="90">
+      <navLabel>
+        <text>বালাদ- (নগর)</text>
+      </navLabel>
+      <content src="OEBPS/j30_split_001.xhtml#ch90"/>
+    </navPoint>
+    <navPoint id="num_91" playOrder="91">
+      <navLabel>
+        <text>শামস- (সূর্য)</text>
+      </navLabel>
+      <content src="OEBPS/j30_split_001.xhtml#ch91"/>
+    </navPoint>
+    <navPoint id="num_92" playOrder="92">
+      <navLabel>
+        <text>লাইল- (রাত)</text>
+      </navLabel>
+      <content src="OEBPS/j30_split_001.xhtml#ch92"/>
+    </navPoint>
+    <navPoint id="num_93" playOrder="93">
+      <navLabel>
+        <text>দুহা- (পূর্বাহ্নের সুর্যকিরণ)</text>
+      </navLabel>
+      <content src="OEBPS/j30_split_001.xhtml#ch93"/>
+    </navPoint>
+    <navPoint id="num_94" playOrder="94">
+      <navLabel>
+        <text>শরহ- (বক্ষ প্রশস্তকরণ)</text>
+      </navLabel>
+      <content src="OEBPS/j30_split_001.xhtml#ch94"/>
+    </navPoint>
+    <navPoint id="num_95" playOrder="95">
+      <navLabel>
+        <text>তীন- (ডুমুর)</text>
+      </navLabel>
+      <content src="OEBPS/j30_split_001.xhtml#ch95"/>
+    </navPoint>
+    <navPoint id="num_96" playOrder="96">
+      <navLabel>
+        <text>আলাক- (রক্তপিণ্ড)</text>
+      </navLabel>
+      <content src="OEBPS/j30_split_001.xhtml#ch96"/>
+    </navPoint>
+    <navPoint id="num_97" playOrder="97">
+      <navLabel>
+        <text>কদর- (মহিমান্বিত)</text>
+      </navLabel>
+      <content src="OEBPS/j30_split_001.xhtml#ch97"/>
+    </navPoint>
+    <navPoint id="num_98" playOrder="98">
+      <navLabel>
+        <text>বাইয়্যিনা- (প্রমাণ)</text>
+      </navLabel>
+      <content src="OEBPS/j30_split_001.xhtml#ch98"/>
+    </navPoint>
+    <navPoint id="num_99" playOrder="99">
+      <navLabel>
+        <text>যিলযালাহ- (ভূমিকম্প)</text>
+      </navLabel>
+      <content src="OEBPS/j30_split_001.xhtml#ch99"/>
+    </navPoint>
+    <navPoint id="num_100" playOrder="100">
+      <navLabel>
+        <text>আদিয়াত- (অভিযানকারী)</text>
+      </navLabel>
+      <content src="OEBPS/j30_split_001.xhtml#ch100"/>
+    </navPoint>
+    <navPoint id="num_101" playOrder="101">
+      <navLabel>
+        <text>কারি'আহ- (মহাসংকট)</text>
+      </navLabel>
+      <content src="OEBPS/j30_split_001.xhtml#ch101"/>
+    </navPoint>
+    <navPoint id="num_102" playOrder="102">
+      <navLabel>
+        <text>তাকাসুর- (প্রাচুর্যের প্রতিযোগিতা)</text>
+      </navLabel>
+      <content src="OEBPS/j30_split_001.xhtml#ch102"/>
+    </navPoint>
+    <navPoint id="num_103" playOrder="103">
+      <navLabel>
+        <text>আসর- (সময়)</text>
+      </navLabel>
+      <content src="OEBPS/j30_split_001.xhtml#ch103"/>
+    </navPoint>
+    <navPoint id="num_104" playOrder="104">
+      <navLabel>
+        <text>হুমাযাহ- (পরনিন্দাকারী)</text>
+      </navLabel>
+      <content src="OEBPS/j30_split_001.xhtml#ch104"/>
+    </navPoint>
+    <navPoint id="num_105" playOrder="105">
+      <navLabel>
+        <text>ফীল- (হাতি)</text>
+      </navLabel>
+      <content src="OEBPS/j30_split_001.xhtml#ch105"/>
+    </navPoint>
+    <navPoint id="num_106" playOrder="106">
+      <navLabel>
+        <text>কুরাইশ- (কুরাইশ গোত্র)</text>
+      </navLabel>
+      <content src="OEBPS/j30_split_001.xhtml#ch106"/>
+    </navPoint>
+    <navPoint id="num_107" playOrder="107">
+      <navLabel>
+        <text>মা'উন- (সাহায্য সহায়তা)</text>
+      </navLabel>
+      <content src="OEBPS/j30_split_001.xhtml#ch107"/>
+    </navPoint>
+    <navPoint id="num_108" playOrder="108">
+      <navLabel>
+        <text>কাওসার- (প্রাচুর্য)</text>
+      </navLabel>
+      <content src="OEBPS/j30_split_001.xhtml#ch108"/>
+    </navPoint>
+    <navPoint id="num_109" playOrder="109">
+      <navLabel>
+        <text>কাফিরুন- (অবিশ্বাসী)</text>
+      </navLabel>
+      <content src="OEBPS/j30_split_001.xhtml#ch109"/>
+    </navPoint>
+    <navPoint id="num_110" playOrder="110">
+      <navLabel>
+        <text>নাসর- (সাহায্য)</text>
+      </navLabel>
+      <content src="OEBPS/j30_split_001.xhtml#ch110"/>
+    </navPoint>
+    <navPoint id="num_111" playOrder="111">
+      <navLabel>
+        <text>মাসাদ- (খেজুরের পাকানো (রশি))</text>
+      </navLabel>
+      <content src="OEBPS/j30_split_001.xhtml#ch111"/>
+    </navPoint>
+    <navPoint id="num_112" playOrder="112">
+      <navLabel>
+        <text>ইখলাস- (আন্তরিকতা)</text>
+      </navLabel>
+      <content src="OEBPS/j30_split_001.xhtml#ch112"/>
+    </navPoint>
+    <navPoint id="num_113" playOrder="113">
+      <navLabel>
+        <text>ফালাক- (নিশিভোর)</text>
+      </navLabel>
+      <content src="OEBPS/j30_split_001.xhtml#ch113"/>
+    </navPoint>
+    <navPoint id="num_114" playOrder="114">
+      <navLabel>
+        <text>নাস- (মানুষ জাতি)</text>
+      </navLabel>
+      <content src="OEBPS/j30_split_001.xhtml#ch114"/>
+    </navPoint>
+  </navMap>
+</ncx>
